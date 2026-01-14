@@ -1,6 +1,6 @@
 ## 👋 Hi there! I'm Emmanuel Adu Bosompem
 
-### 💻 Aspiring Frontend Developer | 🎓 ALX Virtual Assistant Graduate | 🌍 ALX Professional Foundation Learner
+### 💻 Frontend Developer | 🎓 ALX Virtual Assistant Graduate | 🌍 ALX Professional Foundation Learner
 
 I'm a driven and curious developer from Ghana with a background in **Business Information Technology**. I’m actively sharpening my frontend development skills using **HTML, CSS, JavaScript, and React**, while building a strong foundation in virtual assistance and workplace professionalism through the **ALX programs**.
 
